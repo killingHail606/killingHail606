@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/killingHail606/killingHail606/main/My_name_and_surname.jpg"/>
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> My name is Mikhail and I'm a Full-Stack developer
 
 <a href="https://t.me/zhurbiy">
@@ -7,8 +8,6 @@
 </br>
 
 ## Technology stack
-
-<img src="https://raw.githubusercontent.com/killingHail606/killingHail606/main/My_name_and_surname.jpg"/>
 
 **Back-end**
 
