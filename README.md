@@ -9,6 +9,8 @@
 
 ## Technology stack
 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/killingHail606/killingHail606/main/e426702edf874b181aced1e2fa5c6cde.gif" width="500" height="320" />
+
 **Back-end**
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
