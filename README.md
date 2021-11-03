@@ -9,7 +9,7 @@
 
 ## Technology stack
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/killingHail606/killingHail606/main/e426702edf874b181aced1e2fa5c6cde.gif" width="450" height="280" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/killingHail606/killingHail606/main/e426702edf874b181aced1e2fa5c6cde.gif" width="440" height="280" />
 
 **Back-end**
 
