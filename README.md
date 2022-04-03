@@ -40,15 +40,6 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-**I'm actively improving**
-
-![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=flat-square&logo=Django)
-![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
-![Redis](https://img.shields.io/badge/-Redis-FCA121?style=flat-square&logo=Redis)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=vue-dot-js)
-![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
-
 ## 𝗦𝘁𝗮𝘁𝘀
 
 ![DJWOMS github stats](https://github-readme-stats.vercel.app/api?username=killingHail606&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
