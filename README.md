@@ -11,12 +11,6 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/killingHail606/killingHail606/main/e426702edf874b181aced1e2fa5c6cde.gif" width="440" height="280" />
 
-**Back-end**
-
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
-![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=flat-square&logo=Django)
-
 **Front-end**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
@@ -25,6 +19,12 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+
+**Back-end**
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
+![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=flat-square&logo=Django)
 
 **Databases**
 
@@ -38,7 +38,6 @@
 
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
