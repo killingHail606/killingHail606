@@ -42,3 +42,8 @@
 ## 𝗦𝘁𝗮𝘁𝘀
 
 ![DJWOMS github stats](https://github-readme-stats.vercel.app/api?username=killingHail606&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+
+## View my CV here:
+* [In Ukrainian](https://drive.google.com/file/d/1zG72vpGbEisjLtubHersgwKHJ9h6eqBN/view?usp=sharing)
+* [In English](https://drive.google.com/file/d/1Q_ZJI-hVobxiy86YE9vsK5XVm2cJO7DS/view?usp=sharing)
+* [In Russian](https://drive.google.com/file/d/185EywH97zTlDyUgXf3HyAYKKryxj1L4I/view?usp=sharing)
