@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/killingHail606/killingHail606/main/My_name_and_surname.jpg"/>
 
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> My name is Mikhail and I'm a Full-Stack developer
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> My name is Mykhailo and I'm a Full-Stack developer
 
 <a href="https://t.me/zhurbiy">Write to me in telegram
   <img align="left" alt="Telegram" width="22px" src="https://camo.githubusercontent.com/5c1975da7d9ab735ceb71c57b6c7e48ff3e08ca4/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667">
