@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/killingHail606/killingHail606/main/My_name_and_surname.jpg"/>
+<img src="https://raw.githubusercontent.com/killingHail606/killingHail606/main/header_img.png"/>
 
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> My name is Mykhailo and I'm a Full-Stack developer
 
